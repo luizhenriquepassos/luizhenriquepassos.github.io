@@ -1,8 +1,7 @@
 @media screen and (max-width: 930px){
 
     header{
-        flex-direction: row;
-        padding-bottom: 20%;
+        font-display: none;
     }
 
     main{
