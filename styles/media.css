@@ -1,7 +1,7 @@
 @media screen and (max-width: 930px){
 
     header{
-        font-display: none;
+        display: none ;
     }
 
     main{
