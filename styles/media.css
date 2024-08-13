@@ -1,11 +1,8 @@
-@media screen and (max-width: 720px){
-
-    div{
-        display: none;
-    }
+@media screen and (max-width: 760px){
 
     header{
         flex-direction: column;
+        padding: 27px;
     }
 
     main{
@@ -13,7 +10,8 @@
     }
 
     h2{
-        font-size: 20px;
+        font-size: 34px;
+        padding: 7px;
     }
 
     form{
