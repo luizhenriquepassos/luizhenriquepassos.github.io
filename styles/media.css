@@ -1,8 +1,11 @@
-@media screen and (max-width: 930px){
+@media screen and (max-width: 768px){
 
     header{
-        font-size: 24px;
-        padding: 30%;
+        font-size: 20px;       
+    }
+    div{
+       display: none;
+
     }
 
     main{
@@ -10,8 +13,8 @@
     }
 
     h2{
-        font-size: 34px;
-        padding: 7px;
+        font-size: 28px;
+        padding: 2px;
     }
 
     form{
