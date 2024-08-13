@@ -54,8 +54,8 @@
 }
 
 .clock .center{
-    height: 4px;
-    width: 4px;
+    height: 5px;
+    width: 5px;
     background-color: black;
     border-radius: 100%;
     position: absolute;   
